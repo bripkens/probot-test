@@ -12,3 +12,4 @@ foo\n
 foo\n
 foo\n
 foo\n
+foo\n
