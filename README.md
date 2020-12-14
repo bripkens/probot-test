@@ -1,4 +1,12 @@
 # probot-test
 
-1
+4
 
+foo\n
+foo\n
+foo\n
+foo\n
+foo\n
+foo\n
+foo\n
+foo\n
