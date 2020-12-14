@@ -3,3 +3,4 @@
 4
 
 foo\n
+foo\n
